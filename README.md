@@ -1,6 +1,8 @@
 # Bike-Product
 Beetroot Academy - Lesson 05 (Group Project)
 
+Live Page URL: https://mirinkakotze.github.io/Bike-Product/
+
 Create a Product Page.
 
 Your page needs to have:
